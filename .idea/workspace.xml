@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df75beb9-c062-4ff9-a5a5-b3ea7d08b4a3" name="Changes" comment="Formatare 1 - 3">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program9.java" afterDir="false" />
+    <list default="true" id="df75beb9-c062-4ff9-a5a5-b3ea7d08b4a3" name="Changes" comment="Adaugare problemele 4-18">
+      <change afterPath="$PROJECT_DIR$/src/Program19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,28 +40,7 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Program18">
-    <configuration name="Program14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program14" />
-      <module name="ArraysJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program15" />
-      <module name="ArraysJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program16" />
-      <module name="ArraysJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program21">
     <configuration name="Program17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program17" />
       <module name="ArraysJava" />
@@ -89,13 +55,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program19" />
+      <module name="ArraysJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program20" />
+      <module name="ArraysJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program21" />
+      <module name="ArraysJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program21" />
+        <item itemvalue="Application.Program20" />
+        <item itemvalue="Application.Program19" />
         <item itemvalue="Application.Program18" />
         <item itemvalue="Application.Program17" />
-        <item itemvalue="Application.Program16" />
-        <item itemvalue="Application.Program15" />
-        <item itemvalue="Application.Program14" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665121591272</updated>
       <workItem from="1665121604215" duration="4267000" />
-      <workItem from="1665299430023" duration="9732000" />
+      <workItem from="1665299430023" duration="12669000" />
     </task>
     <task id="LOCAL-00001" summary="Adaugare Problema 3">
       <created>1665300105419</created>
@@ -124,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665300375481</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adaugare problemele 4-18">
+      <created>1665309247456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665309247456</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adaugare Problema 3" />
     <MESSAGE value="Formatare 1 - 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formatare 1 - 3" />
+    <MESSAGE value="Adaugare problemele 4-18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adaugare problemele 4-18" />
   </component>
 </project>
