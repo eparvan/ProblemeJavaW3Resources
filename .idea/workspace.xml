@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df75beb9-c062-4ff9-a5a5-b3ea7d08b4a3" name="Changes" comment="">
+    <list default="true" id="df75beb9-c062-4ff9-a5a5-b3ea7d08b4a3" name="Changes" comment="Adaugare Problema 3">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +71,16 @@
       <option name="presentableId" value="Default" />
       <updated>1665121591272</updated>
       <workItem from="1665121604215" duration="4267000" />
-      <workItem from="1665299430023" duration="594000" />
+      <workItem from="1665299430023" duration="917000" />
     </task>
+    <task id="LOCAL-00001" summary="Adaugare Problema 3">
+      <created>1665300105419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665300105419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adaugare Problema 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adaugare Problema 3" />
   </component>
 </project>
