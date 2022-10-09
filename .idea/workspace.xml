@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df75beb9-c062-4ff9-a5a5-b3ea7d08b4a3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArraysJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Program3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Program3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Program3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,10 +33,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Program3">
     <configuration name="Program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Program1" />
       <module name="ArraysJava" />
@@ -54,8 +45,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program3" />
+      <module name="ArraysJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program3" />
         <item itemvalue="Application.Program1" />
       </list>
     </recent_temporary>
@@ -69,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665121591272</updated>
       <workItem from="1665121604215" duration="4267000" />
+      <workItem from="1665299430023" duration="594000" />
     </task>
     <servers />
   </component>
