@@ -26,6 +26,5 @@ public class Program23 {
         }else{
             System.out.println("Listele au diferite elemente");
         }
-
     }
 }
